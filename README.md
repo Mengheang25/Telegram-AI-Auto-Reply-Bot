@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/bot.png" width="128" alt="bot Logo">
+</p>
+
 # 🤖 Telegram AI Auto Reply Bot
 
 > **Smart Telegram AI Customer Service Bot** powered by OpenRouter AI, with conversation memory, SQLite database, Telegram Business Message support, sticker responses, and automatic admin notifications.

@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/bot.png" width="128" alt="bot Logo">
-</p>
+<div align="center">
+  <img width="100%" src="bot.png" alt="bot logo">
+</div>
 
 # 🤖 Telegram AI Auto Reply Bot
 

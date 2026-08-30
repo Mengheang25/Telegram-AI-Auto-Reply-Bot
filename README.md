@@ -79,8 +79,8 @@ telegram-ai-auto-reply/
 ### 1. Clone Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-ai-auto-reply.git
-cd telegram-ai-auto-reply
+git clone https://github.com/Mengheang25/Telegram-AI-Auto-Reply-Bot.git
+cd Telegram-AI-Auto-Reply-Bot
 ```
 
 ឬ Download project ជា ZIP ហើយ Extract រួចចូលទៅកាន់ Folder របស់ Project។
